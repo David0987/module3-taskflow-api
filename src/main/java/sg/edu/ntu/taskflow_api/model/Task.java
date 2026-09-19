@@ -27,6 +27,6 @@ public class Task {
     /** Optional longer detail about the task. */
     private String description;
 
-    /** Done or not. A brand new task starts as false. */
+    /** Done or not. A brand new task starts as false. DH*/
     private boolean completed;
 }
