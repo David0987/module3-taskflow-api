@@ -1,0 +1,7 @@
+target/
+.git/
+.claude/
+.postman/
+postman/
+.vscode/
+.DS_Store
